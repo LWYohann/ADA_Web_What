@@ -8,6 +8,8 @@ this is context.
 
 # Data Story
 
+## Time Series Analysis
+<iframe src="./assets/images/interactive_energy_analysis.html" width="1110" height="610" style="border: none;" scrolling="no"></iframe>
 
 [This is a link](#)
 
@@ -27,7 +29,16 @@ this is context.
 3. Item 3
 4. Item 4
    
+### Electricity Generation Structure
+<iframe src="./assets/images/Pie.html" width="1110" height="510" style="border: none;" scrolling="no"></iframe>
 
+<iframe src="./assets/images/ANOVA.html" width="810" height="610" style="border: none;" scrolling="no"></iframe>
+
+The bar chart visualizes the -log10 transformed p-values from the ANOVA results for each energy source: 
+
+* Height of the Bars: The height of each bar represents the -log10 of the p-value for that energy source. Higher bars indicate more significant differences in the proportions of electricity generated from that source across the three periods (before, during, and after the pandemic).
+
+* Red Dashed Line: This line represents the -log10 transformed significance level (typically p = 0.05). Bars that extend above this line are considered statistically significant.
 
 ## Mobility
 
