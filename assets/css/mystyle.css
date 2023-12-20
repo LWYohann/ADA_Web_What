@@ -1,0 +1,34 @@
+/* Align text to the left for all elements */
+* {
+    text-align: left !important;
+}
+
+
+.container {
+    max-width: 1100px; /* Adjust the width as needed */
+    margin: 0 auto; /* This centers the container */
+}
+
+
+h1 {
+    font-size: 24px;
+}
+
+body {
+    font-size: 16px; /* You can adjust the size as needed */
+}
+
+
+
+p {
+    font-size: 20px;
+}
+
+
+/* ... and so on for other elements */
+/* .center-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+} */
+
