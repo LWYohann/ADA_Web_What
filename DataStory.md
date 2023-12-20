@@ -49,11 +49,11 @@ For example: we can get the daily distribution of energy usage in a day in Germa
 
 </div>
 
-################ 
+<iframe src="./assets/images/Weekly.html" width="910" height="610" style="border: none;" scrolling="no"></iframe>
 
 Of course, we can easily resample it according to the time frequency we want, eg. the monthly distribution in a year in Germany
 
-################ 
+<iframe src="./assets/images/Monthly.html" width="910" height="610" style="border: none;" scrolling="no"></iframe>
 
 As we can see, in Germany, it seems that we use less energy in summer than winter.
 
@@ -62,7 +62,6 @@ Before we move on, one thing we need to mention is that nuclear,coal, oil, and g
 After having a basic look at the distribution of usage of energy. We further explore the distribution of different source with the interventions. 
 For example: Energy generation by Source in Spain with interventions.
 
-####################
 
 The proportion of renewable souces in Germany,2020 with intervention:
 
@@ -134,6 +133,7 @@ You can find more here(link)
 According to the index calculation, we extract out relevant factors and then construct the `containment_index` (CI) representing the overall score of lockdown intensity.
 
 We first have a glimpse on these countries on the mean of containment_index.
+
 | Contries | CI(mean) |
 |  :----:  | :----:  |
 | Finland | 29.221927  |
