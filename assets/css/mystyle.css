@@ -3,27 +3,27 @@
 
 
 * {
-    text-align: left !important;
+    text-align: left ;
 }
 
 
 .container {
-    max-width: 1100px; /* Adjust the width as needed */
+    max-width: 1000px; /* Adjust the width as needed */
     margin: 0 auto; /* This centers the container */
 }
 
 
-h1 {
-    font-size: 24px;
-}
+
 
 body {
     font-size: 16px; /* You can adjust the size as needed */
 }
 
+h1 {
+    font-size: 26px;
+}
 
-
-p {
+p ,ul, ol, li, tabel, th, td{
     font-size: 20px;
 }
 
