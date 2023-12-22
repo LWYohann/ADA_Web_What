@@ -217,7 +217,6 @@ We start by the visualization of the pre and post distribution of page views cou
 
 - Significant Increase in Pageviews:
     - Electric Vehicle: Experienced a substantial increase, as indicated by a high z-score of -5.3561 and a p-value close to zero 1.009e-7.
-    - 1
 
 - Significant Decrease in Pageviews:
     - Electricity Generation:  Experienced a significant decrease with a z-score of 4.64 and a p-value of 3.76e-6。
