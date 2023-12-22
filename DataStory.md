@@ -128,6 +128,10 @@ Data Exploration
 
 <div style="text-align: center;">
 
+<iframe src="./assets/images/ZandP for different articles.html" width="810" height="810" style="border: none;" scrolling="no"></iframe>
+</div>
+<div style="text-align: center;">
+
 <iframe src="./assets/images/Significant Changes Heatmap.html" width="910" height="710" style="border: none;" scrolling="no"></iframe>
 </div>
 
